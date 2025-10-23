@@ -4,4 +4,4 @@ Vloga c
 - **Barvna shema naj bo preprosta in prijetna za oči**
 - Glava strani naj vsebuje logotip in navigacijski meni
 - Noga strani naj vsebuje povezave do družbenih omrežij
-Primer spletne strani, po kateri se zgledujemo: [Zara](https://www.zara.com)
+Primer spletne strani, po kateri se zgledujemo: [Maja](https://www.zara.com)
