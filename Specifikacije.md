@@ -1,6 +1,6 @@
 # FoodConnect
 
-![Logotip FoodConnect](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/480px-No_image_available.svg.png)
+![Logotip FoodConnect](https://img.freepik.com/premium-vector/kebab-logo-design-creative-idea-vintage-retro-style_393879-3535.jpg)
 
 ## Ekipa razvijalcev
 
